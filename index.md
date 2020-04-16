@@ -1,54 +1,56 @@
 # Cheatsheets
 
-## Painting
+### Painting
 
-1. Dart
-2. Widget
-3. Widget Tests
-4. User Input
-5. Animations
-6. Debugging Animations
-7. Communication Between Widgets
+* [Dart](/dart/cheatsheet.md)
+* [Widgets](/widgets/cheatsheet.md)
+* [Widget Tests](/widget_tests/cheatsheet.md)
+* [User Input](/user_input/cheatsheet.md)
+* [Animations](/animations/cheatsheet.md)
+* [Debugging Animations](/debugging_animations/cheatsheet.md)
+* [Communication Between Widgets](/communication_between_widgets/cheatsheet.md)
 
-## App UIs
+### App UIs
 
-2. App UIs
-3. Theming
-4. Navigation
-5. Lists & Grids
-6. Adapting to Devices
-7. Accessibility
-8. Localization & Internationalization
+* [App UIs](/app_uis/cheatsheet.md)
+* [Theming](/theming/cheatsheet.md)
+* [Navigation](/navigation/cheatsheet.md)
+* [Lists & Grids](/lists_and_grids/cheatsheet.md)
+* [Adapting to Devices](/adapting_to_devices/cheatsheet.md)
+* [Accessibility](/accessibility/cheatsheet.md)
+* [Localization & Internationalization](/localization_and_internationalization/cheatsheet.md)
 
-## App Development
+### App Development
 
-1. Platform Integrations
-2. State Management
-3. HTTP + JSON
+* [Platform Integrations](/platform_integrations/cheatsheet.md)
+* [State Management](/state_management/cheatsheet.md)
+* [HTTP + JSON](/http_and_json/cheatsheet.md)
 
 
 # Workshops
 
-1. Dart
-2. Widget
-3. Widget Tests
-4. User Input
-5. Animations
-6. Debugging Animations
-7. Communication Between Widgets
+### Painting
 
-## App UIs
+* [Dart](/dart/workshop_instructions.md)
+* [Widgets](/widgets/workshop_instructions.md)
+* [Widget Tests](/widget_tests/workshop_instructions.md)
+* [User Input](/user_input/workshop_instructions.md)
+* [Animations](/animations/workshop_instructions.md)
+* [Debugging Animations](/debugging_animations/workshop_instructions.md)
+* [Communication Between Widgets](/communication_between_widgets/workshop_instructions.md)
 
-2. App UIs
-3. Theming
-4. Navigation
-5. Lists & Grids
-6. Adapting to Devices
-7. Accessibility
-8. Localization & Internationalization
+### App UIs
 
-## App Development
+* [App UIs](/app_uis/workshop_instructions.md)
+* [Theming](/theming/workshop_instructions.md)
+* [Navigation](/navigation/workshop_instructions.md)
+* [Lists & Grids](/lists_and_grids/workshop_instructions.md)
+* [Adapting to Devices](/adapting_to_devices/workshop_instructions.md)
+* [Accessibility](/accessibility/workshop_instructions.md)
+* [Localization & Internationalization](/localization_and_internationalization/workshop_instructions.md)
 
-1. Platform Integrations
-2. State Management
-3. HTTP + JSON
+### App Development
+
+* [Platform Integrations](/platform_integrations/workshop_instructions.md)
+* [State Management](/state_management/workshop_instructions.md)
+* [HTTP + JSON](/http_and_json/workshop_instructions.md)

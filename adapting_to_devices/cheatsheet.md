@@ -1,0 +1,1 @@
+# Cheatsheet: Adapting to Devices
