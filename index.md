@@ -1,4 +1,12 @@
+js: 
+  - defer: true
+    url: https://dartpad.dev/experimental/inject_embed.dart.js
+
 # Cheatsheets
+
+```run-dartpad:theme-light:mode-flutter:run-true
+main() => print("Hello, World!");
+```
 
 ### Painting
 
